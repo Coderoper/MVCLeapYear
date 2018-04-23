@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using LeapYear.Models;
+using LeapYearApp.Models;
 
-namespace LeapYear.Controllers
+namespace LeapYearApp.Controllers
 {
     public class HomeController : Controller
     {

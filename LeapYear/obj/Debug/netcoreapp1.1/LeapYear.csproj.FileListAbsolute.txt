@@ -7,3 +7,11 @@
 /Users/austinroberts/Desktop/LeapYearMaster/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.AssemblyInfo.cs
 /Users/austinroberts/Desktop/LeapYearMaster/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.dll
 /Users/austinroberts/Desktop/LeapYearMaster/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.deps.json
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.runtimeconfig.json
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.runtimeconfig.dev.json
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.dll
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.AssemblyInfo.cs
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.dll
+/Users/Guest/Desktop/MVCLeapYear/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.pdb

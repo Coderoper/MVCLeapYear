@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System.IO;
 
-namespace LeapYear
+namespace LeapYearApp
 {
   public class Startup
   {

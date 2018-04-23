@@ -2,14 +2,24 @@ using System.Collections.Generic;
 using System.IO;
 using System;
 
-namespace LeapYear.Models
+namespace LeapYearApp.Models
 {
   public class LeapYear
   {
     public bool IsLeapYear(int year)
     {
-      // eventually your code will go here
-      return false;
+      if (year % 400 == 0)
+      {
+        return true;
+      }
+      else if (year % 100 == 0)
+      {
+        return false;
+      }
+      else
+      {
+        return year % 4 == 0;
+      }
     }
   }
 }

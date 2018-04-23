@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using LeapYear.Models;
-namespace LeapYear.Tests
+using LeapYearApp.Models;
+namespace LeapYearApp.Tests
 {
   [TestClass]
   public class LeapYearTest
@@ -12,6 +12,24 @@ namespace LeapYear.Tests
     {
       LeapYear testLeapYear = new LeapYear();
       Assert.AreEqual(true, testLeapYear.IsLeapYear(2012));
+    }
+    [TestMethod]
+    public void IsLeapYear_NumberNotDivisibleByFour_False()
+    {
+      LeapYear testLeapYear = new LeapYear();
+      Assert.AreEqual(false, testLeapYear.IsLeapYear(1999));
+    }
+    [TestMethod]
+    public void IsLeapYear_MultiplesOfOneHundred_False()
+    {
+      LeapYear testLeapYear = new LeapYear();
+      Assert.AreEqual(false, testLeapYear.IsLeapYear(1900));
+    }
+    [TestMethod]
+    public void IsLeapYear_MultiplesOfFourHundred_True()
+    {
+      LeapYear testLeapYear = new LeapYear();
+      Assert.AreEqual(true, testLeapYear.IsLeapYear(2000));
     }
   }
 }
