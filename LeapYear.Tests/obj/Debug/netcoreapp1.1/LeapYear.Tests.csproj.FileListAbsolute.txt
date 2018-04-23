@@ -1,0 +1,14 @@
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.deps.json
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.runtimeconfig.json
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.runtimeconfig.dev.json
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.pdb
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/obj/Debug/netcoreapp1.1/LeapYear.Tests.csproj.CoreCompileInputs.cache
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/obj/Debug/netcoreapp1.1/LeapYear.Tests.AssemblyInfo.cs
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/obj/Debug/netcoreapp1.1/LeapYear.Tests.dll
+/Users/austinroberts/Desktop/LeapYearMaster/LeapYear.Tests/obj/Debug/netcoreapp1.1/LeapYear.Tests.pdb
