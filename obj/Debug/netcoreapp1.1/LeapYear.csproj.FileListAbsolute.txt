@@ -1,0 +1,9 @@
+/Users/austinroberts/Desktop/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.deps.json
+/Users/austinroberts/Desktop/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.runtimeconfig.json
+/Users/austinroberts/Desktop/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.runtimeconfig.dev.json
+/Users/austinroberts/Desktop/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.csproj.CoreCompileInputs.cache
+/Users/austinroberts/Desktop/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.AssemblyInfo.cs
+/Users/austinroberts/Desktop/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.dll
+/Users/austinroberts/Desktop/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/austinroberts/Desktop/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.dll
+/Users/austinroberts/Desktop/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.pdb
